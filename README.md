@@ -1,4 +1,4 @@
-# cancerClassifcation
+# Cancer Classifcation
 In this project Cancer Classification will be done using Neural Networks.
 The dataset is small.
 
